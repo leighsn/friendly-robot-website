@@ -1,16 +1,14 @@
 
-TITLE: 
-Crew - Responsive Free HTML5 template
+TITLE:
+Friendly Robot Consulting
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+
+
+CREDITS:
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
-
-
-CREDITS:
 
 Bootstrap
 http://getbootstrap.com/

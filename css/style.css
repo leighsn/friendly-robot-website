@@ -5,9 +5,19 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@media screen and (max-width: 780px){
+  .to-animate-2 > img {
+    visibility: hidden;
+    height: 35px;
+  }
+}
+#fh5co-header {
+  padding-bottom: 20px;
+}
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
